@@ -1,0 +1,7 @@
+1 Enter employee name  
+  ( process)
+2 If name does not exist
+        Go back to step 2
+         Else
+         Display employee account 
+3 Stop  
