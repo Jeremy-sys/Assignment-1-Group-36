@@ -1,0 +1,35 @@
+Start
+
+Prompt email_address
+Get email_address
+Prompt email_password
+Get email_password
+	 If(email_address_status == "VALID" AND email_password_status == "VALID") THEN
+	 Prompt account_type
+	 Get account_type
+		 If (account_type == "Personal") THEN
+		 Prompt account_name
+		 Get account_name
+		 Prompt account_details
+		 Get account_details
+		 Display "Creating Account..."
+	 ELSE
+	 Display "Invalid email account"
+		 ELSE
+		 If (account_type == "Business") THEN
+		 Prompt account_name
+		 Get account_name 
+		 Prompt account_details
+		 Get account_details
+		 Display "Creating Account..."
+ELSE 
+Display "Error. Try Again"
+	 
+	 username_status AND passcode_status(){
+	 If (email AND password = LEN (email, password))THEN
+	 Display "VALID" 
+	 ELSE
+	 Display "Wrong email or password"
+	 } 
+		 
+		 
