@@ -1,0 +1,16 @@
+Start
+prompt clients details
+get clients details
+display clients details
+prompt where can we can help
+            if(clients details=='correct') 
+                        and 
+                where we can help=='correct') then
+prompt 'demanded things'
+get 'demand things'
+        else
+        display if('we cannot help') then
+prompt 'not correct'
+get 'not correct'
+display 'not correct'
+End
