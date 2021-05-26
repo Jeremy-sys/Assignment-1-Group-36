@@ -4,7 +4,7 @@
 
 #Tasks completed and completed by:
 * Login Module - Jeremy Haihambo 221003401
-*
+*clients Module-Matias hafeni Katyavala 220104107
 *
 *
 *
@@ -18,3 +18,7 @@ and clients as in order to be in connection with our organisation.
 Login helps to retrieve account details according to the information entered
 by the useras it has a function that  collects the user data and checks if the information is
 OK for account login / sign in / sign up.
+
+The clients module is all about the needs OF the user(client) what is needed to be improved
+how this details gathered benefits the client and how it will help in the longterm for betterment
+of the bussiness(the applicatuon design).
