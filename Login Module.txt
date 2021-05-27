@@ -9,6 +9,7 @@ Get Choice
      Prompt passcode
      Get passcode
 		 If (username_status == "OK" AND passcode_status == "OK")
+		 usernameStatus AND passcodeStatus()
 		 THEN
 		 Display account_details
 ELSE
@@ -22,6 +23,7 @@ ELSE
 			 Prompt account_details
 			 Get account_details
 			 Display account_details
+			 newUsernameStatus AND newPasscodeStatus()
 ELSE
 Display "Please Try Again"
 end if
@@ -29,14 +31,14 @@ end if
 		 end if
 End.
 
-		 username_status AND passcode_status(Check1){
+		 usernameStatus AND passcodeStatus(){
 		 If (username AND passcode = LEN (username, passcode))THEN
 		 Display "OK" 
 		 ELSE
 		 Display "Wrong Username or Passcode"
 		 } 
 		 
-			 new_username_status AND new_passcode_status(Check2){
+			 newUsernameStatus AND newPasscodeStatus(){
 			 If (new_username AND new_passcode = LEN(new_username, new_passcode))THEN
 			 Display "OK"
 			 ELSE

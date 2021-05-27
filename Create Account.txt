@@ -4,7 +4,8 @@ Prompt email_address
 Get email_address
 Prompt email_password
 Get email_password
-	 If(email_address_status == "VALID" AND email_password_status == "VALID") THEN
+	 If(email_address_status == "VALID" AND email_password_status == "VALID") emailAddressStatus AND emailPasswordStatus()
+	 THEN
 	 Prompt account_type
 	 Get account_type
 		 If (account_type == "Personal") THEN
@@ -14,7 +15,7 @@ Get email_password
 		 Get account_details
 		 Display "Creating Account..."
 	 ELSE
-	 Display "Invalid email account"
+	 emailAddressStatus AND emailPasswordStatus()
 		 ELSE
 		 If (account_type == "Business") THEN
 		 Prompt account_name
@@ -25,7 +26,7 @@ Get email_password
 ELSE 
 Display "Error. Try Again"
 	 
-	 username_status AND passcode_status(){
+	 emailAddressStatus AND emailPasswordStatus(){
 	 If (email AND password = LEN (email, password))THEN
 	 Display "VALID" 
 	 ELSE
