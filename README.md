@@ -21,4 +21,4 @@ OK for account login / sign in / sign up.
 
 The clients module is all about the needs OF the user(client) what is needed to be improved
 how this details gathered benefits the client and how it will help in the longterm for betterment
-of the bussiness(the applicatuon design).
+of the bussiness(the application design).
