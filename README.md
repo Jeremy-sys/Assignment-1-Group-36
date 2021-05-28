@@ -5,7 +5,8 @@
 #Tasks completed and completed by:
 * Login Module - Jeremy Haihambo 221003401
 *clients Module-Matias hafeni Katyavala 220104107
-*
+* Employee Module- Erastus Uushona 221139710
+* 
 *
 *
 
@@ -22,3 +23,7 @@ OK for account login / sign in / sign up.
 The clients module is all about the needs OF the user(client) what is needed to be improved
 how this details gathered benefits the client and how it will help in the longterm for betterment
 of the bussiness(the application design).
+
+The employee module allows the user to search through employee recods viewing their present number
+of employees and the newly hired employees aswell as those that no longer work there. It also allows the
+user to create a new account for an employee that has just be hired so their datails can be in the system.
