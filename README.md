@@ -9,7 +9,10 @@
 *
 *
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> b076158813d36eaf873500dfe7dd91118112aff7
 ##Part A
 
 The Login Mdule is the initial point where the usres of the application will start their 
