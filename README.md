@@ -4,9 +4,8 @@
 
 #Tasks completed and completed by:
 * Login Module - Jeremy Haihambo 221003401
-*clients Module-Matias hafeni Katyavala 220104107
 * Employee Module- Erastus Uushona 221139710
-* 
+* clients Module-Matias hafeni Katyavala 220104107
 *
 *
 
