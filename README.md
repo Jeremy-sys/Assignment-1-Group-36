@@ -9,12 +9,9 @@
 *
 *
 
-<<<<<<< HEAD
-##Part A
-=======
-#Part A
 
->>>>>>> 99b51d0e2b15c2e02c8daa360eefa8970e7515b0
+##Part A
+
 The Login Mdule is the initial point where the usres of the application will start their 
 procedures to get the tools available and use them to make orders and for employees to make 
 maximum sales as intended by the organisation.
@@ -33,14 +30,8 @@ The employee module allows the user to search through employee recods viewing th
 of employees and the newly hired employees aswell as those that no longer work there. It also allows the
 user to create a new account for an employee that has just be hired so their datails can be in the system.
 
-<<<<<<< HEAD
 ##Part B
 
 Video link [here]https://scratch.mit.edu/projects/537927679 
 Please click on the green flag to begin the story
-=======
-#Part B 
 
-Video link [here]https://scratch.mit.edu/projects/537927679
-Please click on the green flag to begin the story
->>>>>>> 99b51d0e2b15c2e02c8daa360eefa8970e7515b0
