@@ -6,7 +6,7 @@
 * Login Module - Jeremy Haihambo 221003401
 * Employee Module- Erastus Uushona 221139710
 * clients Module-Matias hafeni Katyavala 220104107
-*
+* Finance Module-Zeresh Siamwanda 221068368
 *
 
 ##Part A
