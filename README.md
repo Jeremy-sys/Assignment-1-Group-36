@@ -7,7 +7,7 @@
 * Employee Module- Erastus Uushona 221139710
 * clients Module-Matias hafeni Katyavala 220104107
 * Financial Module-Zeresh Siamwanda 221068368
-* Overview and codes for employee and login- Thomas Shihepo 221119329
+* Thomas Shihepo 221119329
 
 ##Part A
 
