@@ -1,0 +1,12 @@
+ Enter employee name  
+If name does not exist
+   prompt option to create new account
+   If == yes
+   Enter (Name,Age,Gender,Year joined,email,cell number)
+        then
+   Prompt 'account created'
+ then back to step 2
+  Else 
+  if name exists
+  prompt Emlpoyee account details
+  End
