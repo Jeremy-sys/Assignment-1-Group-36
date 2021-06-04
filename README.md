@@ -7,7 +7,11 @@
 * Employee Module- Erastus Uushona 221139710
 * clients Module-Matias hafeni Katyavala 220104107
 * Financial Module-Zeresh Siamwanda 221068368
+<<<<<<< HEAD
 *  Thomas Shihepo 221119329
+=======
+* Thomas Shihepo 221119329
+>>>>>>> e6d427ce13148a2fd4ad2b4cd1b588b393c6340c
 
 ##Part A
 
