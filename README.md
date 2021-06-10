@@ -7,11 +7,8 @@
 * Employee Module- Erastus Uushona 221139710
 * clients Module-Matias hafeni Katyavala 220104107
 * Financial Module-Zeresh Siamwanda 221068368
-<<<<<<< HEAD
 *  Thomas Shihepo 221119329
-=======
-* Thomas Shihepo 221119329
->>>>>>> e6d427ce13148a2fd4ad2b4cd1b588b393c6340c
+
 
 ##Part A
 
@@ -33,6 +30,7 @@ The employee module allows the user to search through employee recods viewing th
 of employees and the newly hired employees aswell as those that no longer work there. It also allows the
 user to create a new account for an employee that has just be hired so their datails can be in the system.
 
+Repository link [here]https://github.com/Jeremy-sys/Assignment-1-Group-36.git
 ##Part B
 
 Video link [here]https://scratch.mit.edu/projects/537927679 
